@@ -35,22 +35,12 @@ Here is a current list of colors (Feb, 2026)
 
 ```
 ÿc6 Black           ÿcV Rich Red            ÿcC Bright Green
-ÿcI Dark Grey       ÿc1 Pale Red            ÿc2 Light Green
-ÿcK Light Grey      ÿcT Dark Red            ÿcO Light Blue
-ÿc5 Grey            ÿc8 Orange              ÿc3 Blue
+ÿcK Dark Grey       ÿc1 Pale Red            ÿc2 Light Green
+ÿc5 Grey            ÿcT Dark Red            ÿcO Light Blue
+ÿcI Light Grey      ÿc8 Orange              ÿc3 Blue
 ÿc0 White           ÿc9 Rich Yellow         ÿcQ Pale Blue
 ÿcN Light Gold      ÿcS Pale Yellow         ÿcU Sky Blue
 ÿc4 Gold            ÿcA Dark Green          ÿcM Blurple
 ÿc7 Pale Gold       ÿc< Green               ÿc; Purple
                                             ÿcP Pink
 ```
-
-
-
-
-
-
-
-
-
-
